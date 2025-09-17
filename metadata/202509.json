@@ -1,0 +1,70 @@
+{
+  "name": "Delivery Summit 2025 - Cerveja Comemorativa",
+  "description": "Token comemorativo de lote especial de cerveja produzida exclusivamente para o evento tecnológico Delivery Summit 2025. Uma cerveja artesanal única que celebra a inovação e a comunidade tech.",
+  "image": "ipfs://QmYourHashHere/delivery-summit-beer.png",
+  "external_url": "https://delivery-summit.com/2025/cerveja-comemorativa",
+  "animation_url": "ipfs://QmYourHashHere/delivery-summit-beer-animation.mp4",
+  "attributes": [
+    {
+      "trait_type": "Evento",
+      "value": "Delivery Summit"
+    },
+    {
+      "trait_type": "Ano",
+      "value": 2025
+    },
+    {
+      "trait_type": "Mês",
+      "value": "Outubro"
+    },
+    {
+      "trait_type": "Estilo da Cerveja",
+      "value": "IPA Artesanal"
+    },
+    {
+      "trait_type": "Teor Alcoólico",
+      "value": "6,5%"
+    },
+    {
+      "trait_type": "Tamanho do Lote",
+      "value": "Edição Limitada - 500 Unidades"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Comemorativo"
+    },
+    {
+      "trait_type": "Categoria",
+      "value": "Colecionável de Evento Tech"
+    },
+    {
+      "trait_type": "Cervejaria",
+      "value": "Token Cerveja Co."
+    },
+    {
+      "trait_type": "Variedade de Lúpulo",
+      "value": "Cascade & Centennial"
+    },
+    {
+      "trait_type": "IBU",
+      "value": 65
+    },
+    {
+      "trait_type": "Cor",
+      "value": "Âmbar Dourado"
+    }
+  ],
+  "properties": {
+    "data_evento": "2025-10-15T00:00:00Z",
+    "id_lote": "DS2025-001",
+    "data_producao": "2025-09-20T00:00:00Z",
+    "data_validade": "2026-09-20T00:00:00Z",
+    "autoridade_certificadora": "Cervejaria Token Cerveja",
+    "verificado_blockchain": true,
+    "transferivel": true,
+    "resgatavel": true,
+    "local_resgate": "Local do Evento Delivery Summit"
+  },
+  "background_color": "FFD700",
+  "youtube_url": "https://youtube.com/watch?v=processo-fabricacao-delivery-summit"
+}
